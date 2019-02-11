@@ -1,0 +1,27 @@
+.cus-thumbnail{
+	height: 200px;
+	overflow: hidden;
+}
+
+.cus-thumbnail.img-1 img{
+	height: 200px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.cus-thumbnail.img-2 img{
+	height: 180px;
+	margin-left: -10px;
+}
+
+.cus-thumbnail.img-3 img{
+	height: 300px;
+	margin-left: -10px;
+}
+
+.cus-thumbnail.img-4 img{
+	height: 220px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+	margin-top: -20px;
+}
